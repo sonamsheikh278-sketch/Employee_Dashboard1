@@ -1,4 +1,4 @@
-# Sales Dashboard in Microsoft Excel
+# Employees Dashboard in Microsoft Excel
 
 ## Project Overview
 
@@ -62,18 +62,18 @@ The following cleaning operations were performed in Microsoft Excel:
 The dashboard includes:
 
 - KPI Cards
-  - Total Sales
-  - Total Orders
-  - Average Sales
-  - Total Quantity
+  - Total Annual Salary
+  - Total experience
+  - Average salary
+  - Total Age
 
-- Monthly Sales Trend
+- Salary by gender
 
-- Sales by Category
+- Salary by Department
 
-- Sales by Region
+- Salary by Country
 
-- Payment Mode Analysis
+- Salary by City
 
 - Top Selling Products
 
