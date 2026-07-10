@@ -1,4 +1,4 @@
-# Employees Dashboard in Microsoft Excel
+<img width="3840" height="2160" alt="Dashboard SS" src="https://github.com/user-attachments/assets/aff4ba67-4e8c-4dda-af43-ac841d14c9f0" /># Employees Dashboard in Microsoft Excel
 
 ## Project Overview
 
@@ -118,7 +118,7 @@ Employee-Dashboard/
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
+![Dashboard.SS](![Uploading Dashboard.SS.png…])
 
 ---
 
