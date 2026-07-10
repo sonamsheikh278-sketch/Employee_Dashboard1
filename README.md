@@ -1,5 +1,3 @@
-<img width="3840" height="2160" alt="Dashboard SS" src="https://github.com/user-attachments/assets/aff4ba67-4e8c-4dda-af43-ac841d14c9f0" /># Employees Dashboard in Microsoft Excel
-
 ## Project Overview
 
 This project demonstrates the complete process of cleaning a employee details dataset and building an interactive dashboard using Microsoft Excel. The dataset contained missing values, duplicate records, inconsistent text, mixed date formats, and invalid entries. After cleaning the data, Pivot Tables, Pivot Charts, Slicers, and Timeline were used to create an interactive sales dashboard.
@@ -119,6 +117,7 @@ Employee-Dashboard/
 ## Dashboard Preview
 
 ![Dashboard.SS](![Uploading Dashboard.SS.png…])
+<img width="3840" height="2160" alt="Dashboard SS" src="https://github.com/user-attachments/assets/aff4ba67-4e8c-4dda-af43-ac841d14c9f0" /># Employees Dashboard in Microsoft Excel
 
 ---
 
